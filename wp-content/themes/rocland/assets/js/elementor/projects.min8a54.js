@@ -1,0 +1,1 @@
+!function(){"use strict";jQuery(window).on("elementor/frontend/init",()=>{elementorFrontend.hooks.addAction("frontend/element_ready/rocland-projects.default",e=>{elementorFrontend.elementsHandler.addHandler(roclandSwiperBase,{$element:e})})})}();

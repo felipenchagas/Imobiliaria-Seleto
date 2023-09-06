@@ -1,0 +1,1 @@
+!function(){"use strict";jQuery(window).on("elementor/frontend/init",()=>{elementorFrontend.hooks.addAction("frontend/element_ready/rocland-team-box.default",e=>{elementorFrontend.elementsHandler.addHandler(roclandSwiperBase,{$element:e})})})}();
